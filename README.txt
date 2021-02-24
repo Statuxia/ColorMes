@@ -26,4 +26,4 @@ https://github.com/Statuxia/binder
 
 Скачать через github: 
 Скачать через MEGA: 
-VT: 
+VT: https://www.virustotal.com/gui/file/c67f2cfeb9848eafb2fdab67cbfbd9a47053910e88dade66c6fe6e7b3417fb5d/detection
