@@ -24,6 +24,6 @@
 https://github.com/Statuxia/ColorMes
 
 
-Скачать через github: 
-Скачать через MEGA: 
+Скачать через github: https://github.com/Statuxia/ColorMes/blob/main/ColorMes.zip?raw=true
+Скачать через MEGA: https://mega.nz/file/NZoGzQZL#4i2DMHxCZ5rIJTsVrpB57qAjFlNmUVmMVdzFPAvZQhA
 VT: https://www.virustotal.com/gui/file/c67f2cfeb9848eafb2fdab67cbfbd9a47053910e88dade66c6fe6e7b3417fb5d/detection
